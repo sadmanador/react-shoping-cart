@@ -1,5 +1,5 @@
 import React from 'react';
-import { addToDb, removeFromCart } from '../../utility/manageLocalStorage';
+import { addToDb, deletingItem, removeFromCart } from '../../utility/manageLocalStorage';
 import './ButtonProduct.css'
 
 const ButtonProduct = (props) => {
@@ -13,11 +13,13 @@ const ButtonProduct = (props) => {
         removeFromCart(id)
     }
 
+    const removingFromCard = id => deletingItem(id);
+
     return (
         <div>
             <button onClick={() => decreaseCart(id)}>Minus</button>
             <button onClick={() => addToCart(id)}>Plus</button>
-            <button>Remove</button>
+            <button onClick={()=> removingFromCard(id)}>Remove</button>
         </div>
     );
 };
