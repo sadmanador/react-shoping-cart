@@ -1,0 +1,57 @@
+[
+  {
+    "id": "6365ec8237e5f01b396d595b",
+    "index": 0,
+    "guid": "f0b64c0b-f69e-43f1-bced-bb18e4576642",
+    "isActive": true,
+    "balance": "$2,963.82",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "brown",
+    "name": "Susana Vargas"
+  },
+  {
+    "id": "6365ec822b8377bc3be57641",
+    "index": 1,
+    "guid": "b20afd4a-1e9f-413d-801c-65026cddd1c8",
+    "isActive": true,
+    "balance": "$1,567.68",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "blue",
+    "name": "Frazier Harding"
+  },
+  {
+    "id": "6365ec82df8d5982ec62fef3",
+    "index": 2,
+    "guid": "dc863433-6529-4a43-a3b7-65c2527548a1",
+    "isActive": true,
+    "balance": "$1,768.71",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "green",
+    "name": "Sally Bauer"
+  },
+  {
+    "id": "6365ec82c9699f9080328fcc",
+    "index": 3,
+    "guid": "58582598-2b4d-49ff-a526-951d84923276",
+    "isActive": true,
+    "balance": "$3,732.56",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "green",
+    "name": "Charmaine Oconnor"
+  },
+  {
+    "id": "6365ec82622e52966653bb78",
+    "index": 4,
+    "guid": "6fa66d86-9728-4709-bbb4-15133628c1c3",
+    "isActive": false,
+    "balance": "$2,138.15",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "brown",
+    "name": "Elliott Mcguire"
+  }
+]
